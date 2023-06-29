@@ -1,0 +1,5 @@
+export const announcements = [
+    {id: 'iusdfioas',teacher_id:'kdjfakl',title: 'Lorem Ipsum is simply dummy text.',date: '22-02-2022',class_ids:['keysfsd','sfdsfe'],text:'Hello students, kindly practice following sentence to increase your typing speed: A quick brown fox jumps over the lazy dog.'},
+    {id: 'fgdf',teacher_id:'kdjfakl',title: 'Lorem Ipsum is simply dummy text.',date: '26-02-2022',class_ids:['sfdsfe'],text:'Hello students, kindly practice following sentence to increase your typing speed: A quick brown fox jumps over the lazy dog.'},
+    {id: 'dfgdfg',teacher_id:'kdjfakl',title: 'Lorem Ipsum is simply dummy text.',date: '28-02-2022',class_ids:['keysfsd'],text:'Hello students, kindly practice following sentence to increase your typing speed: A quick brown fox jumps over the lazy dog.'},
+]
